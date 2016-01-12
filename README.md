@@ -9,8 +9,7 @@ I needed an extra monitor on my system, but the hardware wouldnt allow.
 
 So I put another desktop on my table, with a 4th monitor, and used this program to remotely control the mouse and keyboard.
 
-Just mouse off the screen to the left, and autmatically  take control of the remote computer's mouse and keyboard to the left, 
-mouse back to the right and control comes back to your main machine.
+Just mouse off the screen to the left, and automatically  take control of the remote computer's mouse and keyboard to the left. Simply mouse back to the right and control comes back to your main machine.
 
 Based upon manaUsers version of Remote Control
 https://autohotkey.com/board/topic/26354-ahk-remote-tcpip-based-remote-control/
